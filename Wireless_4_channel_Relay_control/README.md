@@ -19,4 +19,4 @@
       <img src="https://github.com/Ruthvik-1411/Wireless_Relay_Control/blob/main/Wireless_4_channel_Relay_control/wrdc_rx.jpg?raw=true" height=400 width=400><br><br>
 <b>Implemented Circuit:</b><br><br>
       <img src="https://github.com/Ruthvik-1411/Wireless_Relay_Control/blob/main/Wireless_4_channel_Relay_control/wrdc_cr.jpg?raw=true" height=400 width=500><br>
-  <p>Implementation Videos: <a href="https://drive.google.com/file/d/144Ud5AjJvAx54aenmyUokjM_vp_rcODO/view?usp=sharing">Without Antenna</a>&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1rTZ-1fw-a6QBq-Bd3SEmf30Y9Lz3aN8W/view?usp=sharing">With Antenna</a>
+  <p>YouTube Demo Links: <a href="https://youtu.be/o_rFg2tAULw">Without Antenna</a>&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/QpxE0Q4MEMI">With Antenna</a>
